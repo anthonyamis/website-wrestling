@@ -1,2 +1,2 @@
 # website-wrestling
-Come see what exactly colliegate wrestling is all about.
+Come see what exactly collegiate wrestling is all about.
