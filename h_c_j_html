@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+<style> 
+
+#myheader {
+  background-color:lightgreen;
+  color: darkslategrey;
+  padding: 40px;
+  text-align: center;
+} 
+
+.steps {
+  background-color: darkorange;
+  color: mediumblue;
+  padding: 15px;
+  
+}
+</style>
+</head>
+<body>
+
+<h2>The different steps</h2>
+<p>These the 3 different steps to web dev, feel me? it'z type easy unless u wild eddy spaghetti...</p> 
+<hr> 
+
+<h1 id="myheader">Web Dev</h1>
+
+<h2 class="steps">HTML</h2>
+<p>Thiz like da skin na'mean?.</p>
+
+<h2 class="steps">CSS</h2>
+<p>Thiz dead like tha bonez....</p>
+
+<h2 class="steps">JavaScript</h2>
+<p>Thiz lowkey like tha soul or spirit n stuff, feel me son?.</p>
+
+</body>
+</html>
+
+
